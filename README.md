@@ -3,6 +3,15 @@ Breast cancer is the most common cancer in the UK, with a woman’s lifetime ris
 
 This project attempted to predict PCR and RFS using information prior to chemotherapy treatment, to achieve better patient stratification and better treatment overall. The models were compared, and the best models were chosen based mainly on accuracy, among other parameters. In the second phase of evaluation, these models were further tested by our tutor on an unseen dataset for performance evaluation. 
 
+The algorithm used in this project included:
+SVM (SVC and SVR)
+ANN
+Decision Trees
+Random Forest
+Logistic and Linear Regression 
+XGBoost
+KNN
+
 During the first phase of testing the team found SVC (Support Vector Classifier) to be the best classification model for PCR with an accuracy of 75.7%. Additionally, Random Forest turned out to be the best regression method to predict RFS with a mean absolute error (MAE) of 20.73. In the second round of testing, the Final accuracy for classification accuracy (PCR) = 62.41. On the other hand, the MAE for the best regression model (RFS) turned out to be 19.42.  
 
 
