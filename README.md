@@ -1,6 +1,4 @@
 # Machine-Learning-Project
-The dataset used for this study contained 
-
 Breast cancer is the most common cancer in the UK, with a UK woman’s lifetime risk being 12.5% and is usually treated with a combination of surgery, chemotherapy and radiotherapy, as well as hormonal treatments, depending on the type of breast cancer. Chemotherapy is typically used to reduce the size of the tumour before surgery. Chemotherapy, however, is toxic to the human body and is not always effective. Complete tumour resolution at surgery is known as Pathological Complete Response (PCR), which has a high likelihood of achieving cure and longer Relapse-Free Survival (RFS) time. RFS is the length of time a patient survives after primary treatment, without any further signs or symptoms of that cancer.  
 This project attempted to predict PCR and RFS using information prior to chemotherapy treatment, to achieve better patient stratification and better treatment overall. The models were compared, and the best models were chosen based mainly on accuracy, among other parameters. In the second phase of evaluation, these models were further tested by our tutor on an unseen dataset for performance evaluation. 
 
